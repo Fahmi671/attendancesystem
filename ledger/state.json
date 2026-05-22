@@ -1,6 +1,6 @@
 {
-  "ATT-20260521-001": {
-    "attendanceID": "ATT-20260521-001",
+  "ATT-20260522-001": {
+    "attendanceID": "ATT-20260522-001",
     "studentID": "CB23021",
     "studentName": "Mohamad Fahmi Bin Mohd Razali",
     "courseCode": "BCI3353",
@@ -10,14 +10,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.710Z",
-    "updatedAt": "2026-05-21T06:14:01.710Z",
+    "createdAt": "2026-05-22T16:18:15.560Z",
+    "updatedAt": "2026-05-22T16:18:15.560Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "26e323be27d507332088a972fed7924348cac6e695bac4214a31bfb6a9ec0760"
+    "verificationHash": "11105a6791589efb0d8940c5afaa0ac732c771499cca63729eeaf12e70a8a800"
   },
-  "ATT-20260521-002": {
-    "attendanceID": "ATT-20260521-002",
+  "ATT-20260522-002": {
+    "attendanceID": "ATT-20260522-002",
     "studentID": "CB23081",
     "studentName": "Muhamad Khairul Hakim Bin Khairudin",
     "courseCode": "BCI3353",
@@ -27,14 +27,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.712Z",
-    "updatedAt": "2026-05-21T06:14:01.721Z",
+    "createdAt": "2026-05-22T16:18:15.562Z",
+    "updatedAt": "2026-05-22T16:18:15.575Z",
     "updateReason": "Lecturer confirmed late arrival but still within tolerance window",
     "isDeleted": false,
-    "verificationHash": "b9ab73177ee58ee2170159a70cf636dbd5a3a65ec5853bc0d726c824439a1757"
+    "verificationHash": "28628fb493c74045b1adc122115023bc6d441b5f4bc1a470f98d007608d2378b"
   },
-  "ATT-20260521-003": {
-    "attendanceID": "ATT-20260521-003",
+  "ATT-20260522-003": {
+    "attendanceID": "ATT-20260522-003",
     "studentID": "CB23053",
     "studentName": "Muhammad Hafiz Bin Zahari",
     "courseCode": "BCI3353",
@@ -44,14 +44,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.713Z",
-    "updatedAt": "2026-05-21T06:14:01.713Z",
+    "createdAt": "2026-05-22T16:18:15.562Z",
+    "updatedAt": "2026-05-22T16:18:15.562Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "3f3482f8b814c81f8653acc46b27c9d07d7ec7404b18fc11df2e5c5841d03c69"
+    "verificationHash": "8112e395e900325714ac8d4c3cdd9cae34c3efb8265a5620d4e9853eeb7d9e9f"
   },
-  "ATT-20260521-004": {
-    "attendanceID": "ATT-20260521-004",
+  "ATT-20260522-004": {
+    "attendanceID": "ATT-20260522-004",
     "studentID": "CB24161",
     "studentName": "Muhammad Amir Firdaus Bin Mohd Rodhi",
     "courseCode": "BCI3353",
@@ -61,14 +61,14 @@
     "status": "Absent",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.714Z",
-    "updatedAt": "2026-05-21T06:14:01.714Z",
+    "createdAt": "2026-05-22T16:18:15.564Z",
+    "updatedAt": "2026-05-22T16:18:15.564Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "93bf497de8c569f5b5bbe53636c70fceeef653b24b7bd6294d78047b759f9f1f"
+    "verificationHash": "619140d745cfdc1d2c7f9dcc03d82685d5816b9de86bb5475d889d5db8e79135"
   },
-  "ATT-20260521-005": {
-    "attendanceID": "ATT-20260521-005",
+  "ATT-20260522-005": {
+    "attendanceID": "ATT-20260522-005",
     "studentID": "CB23044",
     "studentName": "Muhammad Aizul Azhan Bin Ab Halim",
     "courseCode": "BCI3353",
@@ -78,14 +78,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.716Z",
-    "updatedAt": "2026-05-21T06:14:01.724Z",
+    "createdAt": "2026-05-22T16:18:15.567Z",
+    "updatedAt": "2026-05-22T16:18:15.577Z",
     "updateReason": "Duplicate entry detected - student was recorded twice by mistake",
     "isDeleted": true,
-    "verificationHash": "6712c4007b266a31700ee70ce2cf526cb4a23e5ed4e28e249c5e9c6ebd2011d4"
+    "verificationHash": "8e042cb6b3b7a8db1f2dfeb9fbb75ef0307af49f00fa71548374bea22d5083c1"
   },
-  "ATT-20260521-006": {
-    "attendanceID": "ATT-20260521-006",
+  "ATT-20260522-006": {
+    "attendanceID": "ATT-20260522-006",
     "studentID": "CB23044",
     "studentName": "Muhammad Aizul Azhan",
     "courseCode": "BCI3353",
@@ -95,14 +95,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.728Z",
-    "updatedAt": "2026-05-21T06:14:01.728Z",
+    "createdAt": "2026-05-22T16:18:15.582Z",
+    "updatedAt": "2026-05-22T16:18:15.582Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "21f2d79e9a6574a9ac70981b5c06a3af5363e677ce4106ebb3c439fcfa7e4348"
+    "verificationHash": "1c7e1edf984fd4e5dad174bf6adaffb902f10e9a6fd0a4b7be843ebbe2de8954"
   },
-  "ATT-20260521-007": {
-    "attendanceID": "ATT-20260521-007",
+  "ATT-20260522-007": {
+    "attendanceID": "ATT-20260522-007",
     "studentID": "CB23021",
     "studentName": "Mohamad Fahmi",
     "courseCode": "BCI3353",
@@ -112,14 +112,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.730Z",
-    "updatedAt": "2026-05-21T06:14:01.730Z",
+    "createdAt": "2026-05-22T16:18:15.583Z",
+    "updatedAt": "2026-05-22T16:18:15.583Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "c9b91e8f5ceaee4d26f709c3307bfda10329579339a8e939a37765b88336ea79"
+    "verificationHash": "8cf3a4124621f9abb4c0a3ed52fd21f144d5f775ebc8a3b4ff8d6b65d2270573"
   },
-  "ATT-20260521-008": {
-    "attendanceID": "ATT-20260521-008",
+  "ATT-20260522-008": {
+    "attendanceID": "ATT-20260522-008",
     "studentID": "CB23081",
     "studentName": "Muhamad Khairul",
     "courseCode": "BCI3353",
@@ -129,14 +129,14 @@
     "status": "Late",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.731Z",
-    "updatedAt": "2026-05-21T06:14:01.731Z",
+    "createdAt": "2026-05-22T16:18:15.585Z",
+    "updatedAt": "2026-05-22T16:18:15.585Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "5180216448c28c1f683f4076508deedbbcba5ef49b22118b7670891049f25f91"
+    "verificationHash": "4f2cc3d14c169f600edb52631fff65ec19aa8004ef41f395cb9feb95e1e65d56"
   },
-  "ATT-20260521-009": {
-    "attendanceID": "ATT-20260521-009",
+  "ATT-20260522-009": {
+    "attendanceID": "ATT-20260522-009",
     "studentID": "CB23053",
     "studentName": "Muhammad Hafiz",
     "courseCode": "BCI3353",
@@ -146,14 +146,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.732Z",
-    "updatedAt": "2026-05-21T06:14:01.732Z",
+    "createdAt": "2026-05-22T16:18:15.586Z",
+    "updatedAt": "2026-05-22T16:18:15.586Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "a10550e4219a262a67f58d1a7860d605a966ff8e3dff26444c192c1b76c9b220"
+    "verificationHash": "4b8befd98f2035a3164cc5ff646dfac1abbe357467e4054713b4c4c97c9e41d7"
   },
-  "ATT-20260521-010": {
-    "attendanceID": "ATT-20260521-010",
+  "ATT-20260522-010": {
+    "attendanceID": "ATT-20260522-010",
     "studentID": "CB24161",
     "studentName": "Muhammad Amir",
     "courseCode": "BCI3353",
@@ -163,14 +163,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.733Z",
-    "updatedAt": "2026-05-21T06:14:01.733Z",
+    "createdAt": "2026-05-22T16:18:15.587Z",
+    "updatedAt": "2026-05-22T16:18:15.587Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "ae015b71814211a53f0cce0d8b244b8646d2ea443c5ef41d9fbce64885ee485b"
+    "verificationHash": "e469beefca12f90422566630f607626837f3731da75b7d77f7ea7ea723467acf"
   },
-  "ATT-20260521-011": {
-    "attendanceID": "ATT-20260521-011",
+  "ATT-20260522-011": {
+    "attendanceID": "ATT-20260522-011",
     "studentID": "CB23044",
     "studentName": "Muhammad Aizul Azhan",
     "courseCode": "BCI3353",
@@ -180,14 +180,14 @@
     "status": "Late",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.734Z",
-    "updatedAt": "2026-05-21T06:14:01.734Z",
+    "createdAt": "2026-05-22T16:18:15.589Z",
+    "updatedAt": "2026-05-22T16:18:15.589Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "6969bcfacfe923970c443dfc807a1fbc527134fdbd2a509ff83db9a32ea187de"
+    "verificationHash": "a06e3e42559d61829df4026434e1fab2bae02382807e3b3b9a8c195e0fc3d3eb"
   },
-  "ATT-20260521-012": {
-    "attendanceID": "ATT-20260521-012",
+  "ATT-20260522-012": {
+    "attendanceID": "ATT-20260522-012",
     "studentID": "CB23021",
     "studentName": "Mohamad Fahmi",
     "courseCode": "BCI3353",
@@ -197,14 +197,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.735Z",
-    "updatedAt": "2026-05-21T06:14:01.735Z",
+    "createdAt": "2026-05-22T16:18:15.593Z",
+    "updatedAt": "2026-05-22T16:18:15.593Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "03b295a1ba386938c67c927c97af3d6193f30f3d9b790f67b18a8c5c32aabd6a"
+    "verificationHash": "df47a9e09b87b4d871302095d79b315f1c050078e6e6660c676952581efb40b8"
   },
-  "ATT-20260521-013": {
-    "attendanceID": "ATT-20260521-013",
+  "ATT-20260522-013": {
+    "attendanceID": "ATT-20260522-013",
     "studentID": "CB23081",
     "studentName": "Muhamad Khairul",
     "courseCode": "BCI3353",
@@ -214,14 +214,14 @@
     "status": "Absent",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.736Z",
-    "updatedAt": "2026-05-21T06:14:01.736Z",
+    "createdAt": "2026-05-22T16:18:15.596Z",
+    "updatedAt": "2026-05-22T16:18:15.596Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "e5ebe4c73c5dbf6e8b3bae014cf3e6689381ef5ac8c5138a569473a295e6d2b1"
+    "verificationHash": "dc61e9a48b71274e6c0d45b422be93b51138653f612ff8537c1c850363e33c80"
   },
-  "ATT-20260521-014": {
-    "attendanceID": "ATT-20260521-014",
+  "ATT-20260522-014": {
+    "attendanceID": "ATT-20260522-014",
     "studentID": "CB23053",
     "studentName": "Muhammad Hafiz",
     "courseCode": "BCI3353",
@@ -231,14 +231,14 @@
     "status": "Late",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.737Z",
-    "updatedAt": "2026-05-21T06:14:01.737Z",
+    "createdAt": "2026-05-22T16:18:15.599Z",
+    "updatedAt": "2026-05-22T16:18:15.599Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "68cf8860772168d2c804bfcd803e182c5dbad5ea33e23908fbe23372830ef2ce"
+    "verificationHash": "24b33f9ae6415fbe571c047d7f402cb34c98a21d9626af129a73fa927b4ca316"
   },
-  "ATT-20260521-015": {
-    "attendanceID": "ATT-20260521-015",
+  "ATT-20260522-015": {
+    "attendanceID": "ATT-20260522-015",
     "studentID": "CB24161",
     "studentName": "Muhammad Amir",
     "courseCode": "BCI3353",
@@ -248,14 +248,14 @@
     "status": "Present",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.739Z",
-    "updatedAt": "2026-05-21T06:14:01.739Z",
+    "createdAt": "2026-05-22T16:18:15.601Z",
+    "updatedAt": "2026-05-22T16:18:15.601Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "56a202453ba6abb07c6a4e437c1913d68964a0f220ab6d6e5870bf959250640a"
+    "verificationHash": "068a07055d9d9721b4c82d431942f41ee9f0044904074b9a4d11eddba37c11b3"
   },
-  "ATT-20260521-016": {
-    "attendanceID": "ATT-20260521-016",
+  "ATT-20260522-016": {
+    "attendanceID": "ATT-20260522-016",
     "studentID": "CB23044",
     "studentName": "Muhammad Aizul Azhan",
     "courseCode": "BCI3353",
@@ -265,10 +265,10 @@
     "status": "Late",
     "lecturerID": "LEC001",
     "lecturerName": "TS. DR. SALWANA MOHAMAD @ ASMARA",
-    "createdAt": "2026-05-21T06:14:01.741Z",
-    "updatedAt": "2026-05-21T06:14:01.741Z",
+    "createdAt": "2026-05-22T16:18:15.602Z",
+    "updatedAt": "2026-05-22T16:18:15.602Z",
     "updateReason": "Initial attendance record",
     "isDeleted": false,
-    "verificationHash": "c6ab4783f1fd7b017f4fee6af7955d0e7668819ca9662292001cd1fcd45b8d3f"
+    "verificationHash": "2604aee146236421337401b07c8b2b45cebfb92357e9a65b94ad142ad73525fd"
   }
 }
